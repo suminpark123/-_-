@@ -6,3 +6,4 @@
 java
 
 ## ScreenShots
+https://github.com/suminpark123/hangman_game/blob/main/img/K-249.png
